@@ -20,3 +20,9 @@
 | 15-sequencias.py | Sequências | [15-sequencias.py](./15-sequencias.py) |
 | 16-slicing.py | Slicing | [16-slicing.py](./16-slicing.py) |
 | 17-range.py | Range | [17-range.py](./17-range.py) |
+| 18-for-loop.py | Dicionários | [18-for-loop.py](./18-for-loop.py) |
+| 19-iterando-sobre-sequencias.py | Iterando sobre Sequências | [19-iterando-sobre-sequencias.py](./19-iterando-sobre-sequencias.py) |
+| 20-while-loops.py | Laços de Repetição While | [20-while-loops.py](./20-while-loops.py) |
+| 21-break-e-continue.py | Break e Continue | [21-break-e-continue.py](./21-break-e-continue.py) |
+| 22-desafio-iteracao.py | Desafio - Iteração | [22-desafio-iteracao.py](./22-desafio-iteracao.py) |
+| 23-desafio-iteracao-com-multiplas-listas.py | Desafio - Iteração com Múltiplas Listas | [23-desafio-iteracao-com-multiplas-listas.py](./23-desafio-iteracao-com-multiplas-listas.py) |
